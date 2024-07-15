@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DangNhutNguyen
-- 👀 I’m interested in Python - OpenCV and Coding
+- 👀 I’m interested in Python - OpenCV and Coding - AI
 - 🌱 I’m currently learning HTML and Javascript
 - 💞️ I’m looking to collaborate on FANG
 - 📫 How to reach me a lot of things

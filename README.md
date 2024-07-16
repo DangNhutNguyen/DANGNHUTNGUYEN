@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML and Javascript
 - 💞️ I’m looking to collaborate on FANG
 - 📫 How to reach me a lot of things
-- 😄 Pronouns: Coding
+- 😄 Pronouns: Coding, Traveling
 - MY RESULTS: https://dangnhutnguyen.github.io/azotabypass/index.html
 <!---
 DangNhutNguyen/DangNhutNguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

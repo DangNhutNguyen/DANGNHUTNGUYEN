@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DangNhutNguyen
+- 👋 Hi, I’m @DangNhutNguyen - You can call me as Carl Nguyen
 - 👀 I’m interested in Python - OpenCV and Coding - AI
 - 🌱 I’m currently learning HTML and Javascript
 - 💞️ I’m looking to collaborate on FANG

@@ -6,11 +6,12 @@
 - 😄 Pronouns: Coding, Traveling
 - MY RESULTS:
 ```
-https://dangnhutnguyen.github.io/AZOTA-BYPASS-WEBSITE-CONTAINER-SHOW/index.html
+https://dangnhutnguyen.github.io/AZOTA-BYPASS-WEBSITE-CONTAINER-SHOW/
 ```
 ```
 https://dangnhutnguyen.github.io/HARMONIC-MOTION/
 ```
+And all of project below
 <!---
 DangNhutNguyen/DangNhutNguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

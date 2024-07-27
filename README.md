@@ -15,7 +15,7 @@
 
 
 - CONTACT: 
-  + GMAIL
+  + EMAIL
   ```
   penciltalk0910@gmail.com
   ```

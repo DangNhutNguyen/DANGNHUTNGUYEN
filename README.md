@@ -1,9 +1,9 @@
 # Hi, I’m @DangNhutNguyen - You can call me Carl Nguyen
 
-👀 I’m interested in Python, OpenCV, and AI  
-🌱 I’m currently learning HTML and JavaScript  
-💞️ I’m looking to collaborate on FANG  
-😄 Pronouns: Coding, Traveling  
+- I’m interested in Python, OpenCV, and AI  
+- I’m currently learning HTML and JavaScript  
+- I’m looking to collaborate on FANG  
+- Pronouns: Coding, Traveling  
 
 <div align="center">
   <a href="#" title="">
@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
 
 ## MY RESULTS:

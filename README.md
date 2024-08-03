@@ -1,4 +1,4 @@
-# Hi, I’m @DangNhutNguyen - You can call me Carl Nguyen
+# Hi, I’m @DangNhutNguyen - Carl Nguyen
 
 - I’m interested in Python, OpenCV, and AI  
 - I’m currently learning HTML and JavaScript  

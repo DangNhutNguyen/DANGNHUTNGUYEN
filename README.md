@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @DangNhutNguyen - You can call me as Carl Nguyen
-- 👀 I’m interested in Python - OpenCV and Coding - AI
-- 🌱 I’m currently learning HTML and Javascript
-- 💞️ I’m looking to collaborate on FANG
-- 📫 How to reach me a lot of things
-- 😄 Pronouns: Coding, Traveling
-<div align=center>
+# Hi, I’m @DangNhutNguyen - You can call me Carl Nguyen
+
+👀 I’m interested in Python, OpenCV, and AI  
+🌱 I’m currently learning HTML and JavaScript  
+💞️ I’m looking to collaborate on FANG  
+😄 Pronouns: Coding, Traveling  
+
+<div align="center">
   <a href="#" title="">
     <img width="320" align="center" src="https://github-readme-stats.vercel.app/api?username=dangnhutnguyen&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
@@ -13,27 +14,37 @@
   </a>
 </div>
 
+## CONTACT:
+<div align="center">
+  <a href="mailto:penciltalk0910@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/dangnhutnguyen/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/carlnguyen_dev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.threads.net/@carlnguyen_dev">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
+  </a>
+</div>
 
-- CONTACT: 
-  + EMAIL
-  ```
-  penciltalk0910@gmail.com
-  ```
-  + LINKEDIN
-  ```
-  https://www.linkedin.com/in/dangnhutnguyen/
-  ```
-- MY RESULTS:
-  + AZOTA BYPASS
-  ```
-  https://dangnhutnguyen.github.io/AZOTA-BYPASS-WEBSITE-CONTAINER-SHOW/
-  ```
-  + HARMONIC MOTION SIMULATOR
-  ```
-  https://dangnhutnguyen.github.io/HARMONIC-MOTION/
-  ```
-All of my projects are below - I hope you love that - Nguyen Huynh Dang Nhut
-<!---
-DangNhutNguyen/DangNhutNguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
+</div>
+
+## MY RESULTS:
+- **AZOTA BYPASS:** [Link to AZOTA BYPASS WEBSITE](https://dangnhutnguyen.github.io/AZOTA-BYPASS-WEBSITE-CONTAINER-SHOW/)
+- **HARMONIC MOTION SIMULATOR:** [Link to HARMONIC MOTION GRAPH SIMULATOR](https://dangnhutnguyen.github.io/HARMONIC-MOTION/)
+
+All of my projects are below - I hope you love them.
+
+
+

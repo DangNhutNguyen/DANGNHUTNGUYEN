@@ -3,7 +3,7 @@
 - I’m interested in Python, OpenCV, and AI  
 - I’m currently learning HTML and JavaScript  
 - I’m looking to collaborate on FANG  
-- Pronouns: Coding, Traveling  
+- Pronouns: Coding, Traveling
 
 <div align="center">
   <a href="#" title="">

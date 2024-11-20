@@ -42,7 +42,6 @@
 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-
 </div>
 
 ## MY RESULTS:
@@ -51,5 +50,19 @@
 - **MY PORTFOLIO:** [Visit here](https://dangnhutnguyen.github.io/Portfolio/)
 - **All of my projects are below - I hope you love them.**
 
+---
 
+## Technologies
 
+- **Programming Languages**: Python, JavaScript, HTML, CSS, C++, Java
+- **Frameworks**: Flask, React, Django
+- **Tools**: Docker, Git, VS Code, Nginx
+- **Cloud Platforms**: AWS, Azure
+
+---
+
+## Contact
+
+You can reach me via email at [penciltalk0910@gmail.com](mailto:penciltalk0910@gmail.com).
+
+Or find me on [LinkedIn](https://www.linkedin.com/in/dangnhutnguyen/).

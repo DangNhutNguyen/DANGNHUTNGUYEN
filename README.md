@@ -13,6 +13,17 @@
 
 I'm a passionate software developer, borned in 2008 (I'm currently a high school student) with a strong interest in Python, computer vision with OpenCV, and the broad field of Artificial Intelligence. I am dedicated to building innovative and impactful solutions. My journey in tech is driven by a desire to continuously learn and adapt to new technologies, and I am currently expanding my skillset in front-end development with HTML and JavaScript. I am actively seeking opportunities to collaborate on challenging projects, particularly with leading tech companies.
 
+I'm now a CGO and Founder of [CodliRo](https://github.com/codliro) - A team for leading to innovate and make reasearch about humans focusing and problem with their daily life management. We've public 3 products (Focumia, Writedownia, and PrompTEA). Those small projects've just kept us together (with @zakagjins and @huynguyennhut) and we cant grew far by those. Hope so!
+
+---
+### **My story to AI and Programming**
+
+In the summer of 2019, I dove into the world of **Scratch**, my first encounter with coding. It felt like unlocking a treasure chest of creativity. With every colorful block, I brought animations to life and crafted games. The thrill of each small success sparked a passion I hadn’t fully understood yet. That summer, **Scratch** was just the beginning of something much bigger.
+
+As my curiosity grew, I transitioned to **Python**, discovering a whole new realm of logic and power. I connected **Python** to **Arduino**, making tangible projects like an **LED blink**—a small light, but a big milestone. This journey led me to control motors, build sensors, and deepen my love for creating interactive projects. But the real turning point came when I discovered **AI**.
+
+**Machine Learning (ML2019)** captivated me completely. I trained my first model to recognize **patterns** and watched it **learn, adapt, and improve**. **AI** was no longer just code; it was a perfect blend of logic, creativity, and problem-solving. Looking back, the summer of 2019 marked the beginning of my journey from **Scratch** to **Python, Arduino,** and finally to **AI**, a journey that transformed my love for coding and opened up endless possibilities.
+
 **Pronouns:** He/Him
 
 ---

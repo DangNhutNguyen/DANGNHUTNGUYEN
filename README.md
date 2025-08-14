@@ -1,114 +1,91 @@
-### **Dang Nhut Nguyen - 915080**
-*Software Developer & AI Enthusiast*
+```go
+// Dang Nhut Nguyen - 915080
+// Software Developer & AI Enthusiast
+// Profile Views: https://komarev.com/ghpvc/?username=dangnhutnguyen
 
-<p align="center">
-  <a href="https://github.com/dangnhutnguyen">
-    <img src="https://komarev.com/ghpvc/?username=dangnhutnguyen&label=Profile%20Views&color=0e75b6&style=for-the-badge&base=2986" alt="Profile Views"/>
-  </a>
-</p>
+package main
 
----
+import (
+    "fmt"
+    "strings"
+)
 
-### **About Me**
+type Organization struct {
+    Name      string
+    Position  string
+    Projects  []string
+    Teammates []string
+}
 
-I'm a passionate software developer, borned in 2008 (I'm currently a high school student) with a strong interest in Python, computer vision with OpenCV, and the broad field of Artificial Intelligence. I am dedicated to building innovative and impactful solutions. My journey in tech is driven by a desire to continuously learn and adapt to new technologies, and I am currently expanding my skillset in front-end development with HTML and JavaScript. I am actively seeking opportunities to collaborate on challenging projects, particularly with leading tech companies.
+type AboutMe struct {
+    Name          string
+    Born          int
+    Roles         []string
+    Skills        []string
+    CurrentFocus  string
+    Organization  Organization
+    Pronouns      string
+}
 
-I'm now a CGO and Founder of [CodliRo](https://github.com/codliro) - A team for leading to innovate and make reasearch about humans focusing and problem with their daily life management. We've public 3 products (Focumia, Writedownia, and PrompTEA). Those small projects've just kept us together (with @zakagjins and @huynguyennhut) and we cant grew far by those. Hope so!
+type Project struct {
+    Name string
+    Link string
+}
 
----
-### **My story to AI and Programming**
+type TechnicalSkills struct {
+    Languages  []string
+    Frameworks []string
+    Tools      []string
+}
 
-In the summer of 2019, I dove into the world of **Scratch**, my first encounter with coding. It felt like unlocking a treasure chest of creativity. With every colorful block, I brought animations to life and crafted games. The thrill of each small success sparked a passion I hadn’t fully understood yet. That summer, **Scratch** was just the beginning of something much bigger.
+func main() {
+    about := AboutMe{
+        Name:         "Nguyen Huynh Dang Nhut",
+        Born:         2008,
+        Roles:        []string{"High School Student", "Software Developer", "AI Enthusiast"},
+        Skills:       []string{"Python", "OpenCV", "AI", "HTML", "JavaScript"},
+        CurrentFocus: "AI Engineer",
+        Organization: Organization{
+            Name:      "CodliRo",
+            Position:  "CGO & Founder",
+            Projects:  []string{"Focumia", "Writedownia", "PrompTEA"},
+            Teammates: []string{"@zakagjins", "@huynguyennhut"},
+        },
+        Pronouns: "He/Him",
+    }
 
-As my curiosity grew, I transitioned to **Python**, discovering a whole new realm of logic and power. I connected **Python** to **Arduino**, making tangible projects like an **LED blink**—a small light, but a big milestone. This journey led me to control motors, build sensors, and deepen my love for creating interactive projects. But the real turning point came when I discovered **AI**.
+    story := `
+Summer 2019: Started coding with Scratch → Built animations & games.
+Learned Python + Arduino → Created LED blinkers, motor controllers, sensors.
+Discovered AI (ML2019) → Trained my first model to recognize patterns.
+Journey: Scratch → Python → Arduino → AI.
+`
 
-**Machine Learning (ML2019)** captivated me completely. I trained my first model to recognize **patterns** and watched it **learn, adapt, and improve**. **AI** was no longer just code; it was a perfect blend of logic, creativity, and problem-solving. Looking back, the summer of 2019 marked the beginning of my journey from **Scratch** to **Python, Arduino,** and finally to **AI**, a journey that transformed my love for coding and opened up endless possibilities.
+    projects := []Project{
+        {"AZOTA BYPASS", "https://dangnhutnguyen.github.io/AZOTA-BYPASS-WEBSITE-CONTAINER-SHOW/"},
+        {"Harmonic Motion Simulator", "https://dangnhutnguyen.github.io/HARMONIC-MOTION/"},
+        {"Focumia Website", "https://codliro.github.io/Focumia/"},
+        {"My Portfolio", "https://dangnhutnguyen.github.io/Portfolio/"},
+    }
 
-**Pronouns:** He/Him
+    skills := TechnicalSkills{
+        Languages:  []string{"Python", "JavaScript", "HTML", "CSS", "C++", "Java", "Golang", "C#"},
+        Frameworks: []string{"Flask", "React", "Django"},
+        Tools:      []string{"Docker", "Git", "VS Code", "Nginx", "AWS", "Azure"},
+    }
 
----
+    fmt.Printf("=== ABOUT ME ===\nName: %s\nBorn: %d\nRoles: %s\n\n", 
+        about.Name, about.Born, strings.Join(about.Roles, ", "))
+    
+    fmt.Printf("=== STORY ===\n%s\n", story)
 
-### **Featured Projects**
+    fmt.Println("=== PROJECTS ===")
+    for _, p := range projects {
+        fmt.Printf("- %s → %s\n", p.Name, p.Link)
+    }
 
-A selection of my work, showcasing my skills in web development and problem-solving.
-
-* **[AZOTA BYPASS](https://dangnhutnguyen.github.io/AZOTA-BYPASS-WEBSITE-CONTAINER-SHOW/)**: A web-based tool developed to demonstrate and provide a solution for bypassing certain restrictions on the Azota online testing platform.
-* **[Harmonic Motion Simulator](https://dangnhutnguyen.github.io/HARMONIC-MOTION/)**: An interactive graphical simulator for visualizing harmonic motion, built with JavaScript.
-* **[Focumia Website](https://codliro.github.io/Focumia/)**: A collaborative project resulting in a modern and responsive website.
-* **[My Portfolio](https://dangnhutnguyen.github.io/Portfolio/)**: A personal portfolio website showcasing my projects and skills.
-
-*A complete list of my projects is available below and on my GitHub repositories. I welcome you to explore them.*
-
----
-
-<div align="center">
-  <a href="https://github.com/dangnhutnguyen">
-    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=dangnhutnguyen&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="https://github.com/dangnhutnguyen">
-    <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangnhutnguyen&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
-
----
-
-### **Technical Skills**
-
-**Programming Languages:**
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-</div>
-
-**Frameworks & Libraries:**
-<div align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-</div>
-
-**Tools & Platforms:**
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-</div>
-
----
-
-### **Achievements**
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dangnhutnguyen&theme=darkhub&row=1&column=6" alt="GitHub Trophies"/>
-  </a>
-</p>
-
----
-
-### **Contact**
-
-Let's connect and create something amazing together!
-
-<div align="center">
-  <a href="mailto:penciltalk0910@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/dangnhutnguyen/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/carlnguyen_dev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.threads.net/@carlnguyen_dev">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
-  </a>
-</div>
+    fmt.Println("\n=== TECHNICAL SKILLS ===")
+    fmt.Println("Languages :", strings.Join(skills.Languages, ", "))
+    fmt.Println("Frameworks:", strings.Join(skills.Frameworks, ", "))
+    fmt.Println("Tools     :", strings.Join(skills.Tools, ", "))
+}

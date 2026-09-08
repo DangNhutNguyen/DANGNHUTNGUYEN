@@ -27,7 +27,7 @@
 researcher = {
     "name":      "Nguyễn Huỳnh Đăng Nhựt",
     "location":  "Hồ Chí Minh, Vietnam",
-    "education": "Nguyễn Khuyến High School  ·  Grade 12 GPA: 9.29 / 10.00",
+    "education": "University of Information Technology",
     "interests": ["Computational Modeling", "Optimization", "Machine Learning",
                   "Probability Theory", "Combinatorics", "Renewable Energy"],
     "currently": "AI-assisted research workflows & prompt engineering",

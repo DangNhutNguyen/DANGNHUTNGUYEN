@@ -7,9 +7,9 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dangnhutnguyen&style=flat-square&color=6366f1&label=Profile+Views)](https://github.com/DangNhutNguyen)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=flat-square)](https://dangnhutnguyen.github.io/Portfolio)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=flat-square)](https://dangnhutnguyen.github.io)&nbsp;
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square)](mailto:penciltalk0910@gmail.com)&nbsp;
-[![CV](https://img.shields.io/badge/CV-f59e0b?style=flat-square)](https://dangnhutnguyen.github.io/Portfolio)
+[![CV](https://img.shields.io/badge/CV-f59e0b?style=flat-square)](https://dangnhutnguyen.github.io)
 
 <br/>
 

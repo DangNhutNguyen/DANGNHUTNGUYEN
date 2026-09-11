@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=200&section=header&text=Nguyễn%20Huỳnh%20Đăng%20Nhựt&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Mathematics%20·%20Physics%20·%20Artificial%20Intelligence&descAlignY=60&descSize=16&descColor=c8c8d0&animation=fadeIn" width="100%" alt="Header"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=200&section=header&text=Nhut%20Nguyen%20Huynh%20Dang&fontSize=36&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
+     width="100%"
+     alt="Header"/>
 </div>
 
 <div align="center">
@@ -9,7 +10,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=dangnhutnguyen&style=flat-square&color=6366f1&label=Profile+Views)](https://github.com/DangNhutNguyen)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=flat-square)](https://dangnhutnguyen.github.io)&nbsp;
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square)](mailto:penciltalk0910@gmail.com)&nbsp;
-[![CV](https://img.shields.io/badge/CV-f59e0b?style=flat-square)](https://dangnhutnguyen.github.io)
+[![CV](https://img.shields.io/badge/CV-f59e0b?style=flat-square)](https://dangnhutnguyen.github.io/assets/nguyenhuynhdangnhut_cv.pdf)
 
 <br/>
 
@@ -17,24 +18,6 @@
 
 </div>
 
----
-
-## About
-
-> *Working at the intersection of mathematics, physics, and artificial intelligence — exploring how intelligent systems can support scientific discovery and human-centered technological development.*
-
-```python
-researcher = {
-    "name":      "Nguyễn Huỳnh Đăng Nhựt",
-    "location":  "Hồ Chí Minh, Vietnam",
-    "education": "University of Information Technology",
-    "interests": ["Computational Modeling", "Optimization", "Machine Learning",
-                  "Probability Theory", "Combinatorics", "Renewable Energy"],
-    "currently": "AI-assisted research workflows & prompt engineering",
-}
-```
-
----
 
 ## Research Interests
 
@@ -47,8 +30,6 @@ researcher = {
 </tr>
 </table>
 
----
-
 ## Featured Projects
 
 <table>
@@ -57,7 +38,7 @@ researcher = {
 
 **[Neural Network from Scratch](https://github.com/DangNhutNguyen/Neural-Network-from-Scratch)**
 
-Built a fully functional neural network from mathematical first principles — forward propagation, gradient computation, and backpropagation — without any ML frameworks.
+Built a fully functional neural network from mathematical first principles - forward propagation, gradient computation, and backpropagation - without any ML frameworks.
 
 `Python` · `Mathematics` · `Backpropagation`
 
@@ -86,7 +67,7 @@ Treats prompt engineering as a craft: systematic testing of instruction structur
 
 **[Focumia](https://github.com/DangNhutNguyen/Focumia)**
 
-A personal productivity application for concentration management and deep-work facilitation — built from real research session needs, not theory.
+A personal productivity application for concentration management and deep-work facilitation - built from real research session needs, not theory.
 
 `Productivity Systems` · `Workflow Design`
 
@@ -97,7 +78,7 @@ A personal productivity application for concentration management and deep-work f
 
 **[Concentrated Solar Power System](https://bit.ly/SolarProject-dangnhutnguyen)**
 
-Proposed a concentrated solar approach combining optics, thermodynamics, and systems engineering — awarded **1st Prize** at the Provincial ViSEF round in 2023.
+Proposed a concentrated solar approach combining optics, thermodynamics, and systems engineering - awarded **1st Prize** at the Provincial ViSEF round in 2023.
 
 `Applied Physics` · `Renewable Energy` · `ViSEF 2023`
 
@@ -106,7 +87,7 @@ Proposed a concentrated solar approach combining optics, thermodynamics, and sys
 
 **AI Applications for Research Efficiency**
 
-Ongoing exploration of how AI tools integrate into real research workflows — literature synthesis, note organization, and information surfacing.
+Ongoing exploration of how AI tools integrate into real research workflows - literature synthesis, note organization, and information surfacing.
 
 `Research Methodology` · `AI Tools` · `Knowledge Management`
 
@@ -114,7 +95,6 @@ Ongoing exploration of how AI tools integrate into real research workflows — l
 </tr>
 </table>
 
----
 
 ## Tech Stack
 
@@ -130,38 +110,19 @@ Ongoing exploration of how AI tools integrate into real research workflows — l
 
 </div>
 
----
 
 ## Selected Honors
 
 | Year | Award |
 |------|-------|
-| 2026 | Second Prize — City-Level Academic Excellence Competition (Physics) |
-| 2023 | **First Prize** — Provincial Round, Vietnam Science & Engineering Fair (ViSEF) |
-| 2023 | Second Prize — Provincial VIFOTEC Competition |
-| 2022 | Third Prize — Provincial Round, Vietnam Science & Engineering Fair (ViSEF) |
-| 2021–23 | Vice President — Ba Ria–Vung Tau Provincial Children's Council |
-| 2019 | National Delegate — 6th National Children's Forum Vietnam |
+| 2026 | Second Prize - City-Level Academic Excellence Competition (Physics) |
+| 2023 | **First Prize** - Provincial Round, Vietnam Science & Engineering Fair (ViSEF) |
+| 2023 | Second Prize - Provincial VIFOTEC Competition |
+| 2022 | Third Prize - Provincial Round, Vietnam Science & Engineering Fair (ViSEF) |
+| 2021–23 | Vice President - Ba Ria–Vung Tau Provincial Children's Council |
+| 2019 | National Delegate - 6th National Children's Forum Vietnam |
 
----
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dangnhutnguyen&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c8c8d0&hide=contribs" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangnhutnguyen&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c8c8d0&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=dangnhutnguyen&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8&sideLabels=6b7280&dates=6b7280&sideNums=c8c8d0&currStreakNum=ffffff&stroke=0d1117" />
-
-</div>
-
----
 
 ## Connect
 
@@ -175,7 +136,6 @@ Ongoing exploration of how AI tools integrate into real research workflows — l
 
 </div>
 
----
 
 <div align="center">
 

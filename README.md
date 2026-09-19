@@ -12,13 +12,6 @@
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square)](mailto:penciltalk0910@gmail.com)&nbsp;
 [![CV](https://img.shields.io/badge/CV-f59e0b?style=flat-square)](https://dangnhutnguyen.github.io/assets/nguyenhuynhdangnhut_cv.pdf)
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=600&height=28&lines=Computational+Modeling+%7C+Optimization+%7C+AI-Assisted+Research;Mathematics+%7C+Physics+%7C+Probability+Theory;Renewable+Energy+Systems+%7C+Scientific+Reasoning)](https://github.com/DangNhutNguyen)
-
-</div>
-
-
 ## Research Interests
 
 <table>
